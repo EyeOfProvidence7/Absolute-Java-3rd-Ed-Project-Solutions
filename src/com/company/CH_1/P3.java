@@ -12,6 +12,7 @@ public class P3 {
     }
 
     public static void run(){
+
         System.out.print(toPigLatin(FIRST));
         System.out.println(toPigLatin(LAST));
     }
